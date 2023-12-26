@@ -1,1 +1,1 @@
-puts "Example 1"
+puts "Example 2"
