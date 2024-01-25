@@ -1,2 +1,2 @@
 puts "This is config.rb"
-puts "This is version 1"
+puts "This is version 2"
