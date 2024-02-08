@@ -1,2 +1,2 @@
 puts "This is index.rb"
-puts "This is version 3"
+puts "This is version 1"
